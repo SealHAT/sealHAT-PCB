@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=
+OutputPath=Outputs
 LogFolderPath=
 ManagedProjectGUID=6B442C26-7CE2-469C-8DFD-F2B8C9C98BB2
 LinkedManagedProjectGUID=
@@ -193,23 +193,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=SealHAT.v.1.0.5.CSPCBDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EXRPQTNL
-
-[Document11]
 DocumentPath=MicroController.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=SealHATv1.0.6.CSPCBDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUNXBLUJ
 
-[Document13]
+[Document12]
 DocumentPath=libs\jumpers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -260,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJQXYDTS
 
-[Document14]
+[Document13]
 DocumentPath=libs\jumpers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUCNJEUL
 
-[Document15]
+[Document14]
 DocumentPath=libs\Passives.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQFEYEGK
 
-[Document16]
+[Document15]
 DocumentPath=libs\Passives.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -311,7 +294,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFKQTCMT
 
-[Document17]
+[Document16]
 DocumentPath=libs\2173157-3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -328,7 +311,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=libs\2173157-3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -345,7 +328,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=libs\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -362,7 +345,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOVYWBGM
 
-[Document20]
+[Document19]
 DocumentPath=libs\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -379,7 +362,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPLOFIAL
 
-[Document21]
+[Document20]
 DocumentPath=libs\SAM-M8Q.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -396,7 +379,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=libs\ublox.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -413,7 +396,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=libs\Lite-On.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -430,7 +413,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LYAUJRXU
 
-[Document24]
+[Document23]
 DocumentPath=libs\Lite-On.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -447,7 +430,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LQOXIVBT
 
-[Document25]
+[Document24]
 DocumentPath=libs\SI705x.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -464,7 +447,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document25]
 DocumentPath=libs\SI705x.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -481,7 +464,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=libs\Bourns.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -498,7 +481,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVREYDGR
 
-[Document28]
+[Document27]
 DocumentPath=libs\Bourns.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -515,7 +498,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHSNIEGQ
 
-[Document29]
+[Document28]
 DocumentPath=libs\FC-135R_FC-135.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -532,7 +515,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=libs\FC-135R_RC-135.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -549,7 +532,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IBPFTXMK
 
-[Document31]
+[Document30]
 DocumentPath=libs\LSM303AGRTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -566,7 +549,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document31]
 DocumentPath=libs\LSM303AGRTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -583,7 +566,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document32]
 DocumentPath=libs\micron.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,9 +581,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NKQUKTDA
 
-[Document34]
+[Document33]
 DocumentPath=libs\micron.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -617,7 +600,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document34]
 DocumentPath=libs\TPS63060DSCR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -634,7 +617,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document35]
 DocumentPath=libs\TPS63060DSCR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -651,7 +634,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EEJSDNCD
 
-[Document37]
+[Document36]
 DocumentPath=libs\OnSemi.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -668,7 +651,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document37]
 DocumentPath=libs\OnSemi.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -685,7 +668,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document38]
 DocumentPath=libs\Microchip.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -702,7 +685,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=libs\Microchip.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -719,7 +702,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=libs\PRTR5V0U2X.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -736,7 +719,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=libs\PRTR5V0U2X.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -753,7 +736,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=libs\Panasonic_ERJ\Panasonic_ERJ_0201.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -770,7 +753,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=libs\Panasonic_ERJ\Panasonic_ERJ_0201.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -787,7 +770,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document44]
 DocumentPath=libs\Panasonic_ERJ\Panasonic_ERJ_0402.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -804,7 +787,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document45]
 DocumentPath=libs\Panasonic_ERJ\Panasonic_ERJ_0402.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -821,7 +804,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document46]
 DocumentPath=libs\Panasonic_ERJ\Panasonic_ERJ_0603.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -838,7 +821,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document47]
 DocumentPath=libs\Panasonic_ERJ\Panasonic_ERJ_0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -855,7 +838,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=libs\Panasonic_ERJ\Panasonic_ERJ_0805.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -872,7 +855,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document49]
 DocumentPath=libs\Panasonic_ERJ\Panasonic_ERJ_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -889,7 +872,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document50]
 DocumentPath=libs\Panasonic_ERJ\Panasonic_ERJ_1206.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -906,7 +889,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document51]
 DocumentPath=libs\Panasonic_ERJ\Panasonic_ERJ_1206.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -923,7 +906,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document52]
 DocumentPath=libs\Panasonic_ERJ\Panasonic_ERJ_2512.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -940,7 +923,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document53]
 DocumentPath=libs\Panasonic_ERJ\Panasonic_ERJ_2512.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -957,7 +940,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document54]
 DocumentPath=libs\MaximIntegrated.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -974,7 +957,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document55]
 DocumentPath=libs\MaximIntegrated.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -991,7 +974,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVBJMHKQ
 
-[Document57]
+[Document56]
 DocumentPath=libs\DiodesInc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1008,7 +991,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document57]
 DocumentPath=libs\diodesInc.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1025,7 +1008,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document58]
 DocumentPath=libs\mechanical.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1042,7 +1025,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DDXOAUEE
 
-[Document60]
+[Document59]
 DocumentPath=libs\mechanical.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1060,134 +1043,358 @@ GenerateClassCluster=0
 DocumentUniqueId=VAVAEGBI
 
 [GeneratedDocument1]
-DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Default Configuration\Outputs\BOM\BOM_PartType-SealHAT.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Outputs\odb\steps\pcb\eda\data
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Outputs\odb\steps\pcb\layers\3D Bottom\features
+DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Outputs\odb\steps\pcb\layers\3D Top\features
+DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Outputs\odb\steps\pcb\layers\Assembly Bottom\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Outputs\odb\steps\pcb\layers\Assembly Text Bottom\features
+DocumentPath=Outputs\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Outputs\odb\steps\pcb\layers\Assembly Text Top\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\3D Bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Outputs\odb\steps\pcb\layers\Assembly Top\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\3D Top\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Outputs\odb\steps\pcb\layers\bottom\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Assembly Bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Outputs\odb\steps\pcb\layers\bottomoverlay\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Assembly Text Bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Outputs\odb\steps\pcb\layers\bottompaste\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Assembly Text Top\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Outputs\odb\steps\pcb\layers\bottomsolder\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Assembly Top\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottomoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Outputs\odb\steps\pcb\layers\Courtyard Bottom\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Outputs\odb\steps\pcb\layers\Courtyard Top\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Outputs\odb\steps\pcb\layers\drill\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Outputs\odb\steps\pcb\layers\keepout\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Outputs\odb\steps\pcb\layers\mechanical27\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Courtyard Bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Outputs\odb\steps\pcb\layers\mid1\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Courtyard Top\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Outputs\odb\steps\pcb\layers\mid2\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Outputs\odb\steps\pcb\layers\Outline\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\keepout\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Outputs\odb\steps\pcb\layers\top\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mechanical27\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Outputs\odb\steps\pcb\layers\topoverlay\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Outputs\odb\steps\pcb\layers\toppaste\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mid2\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Outputs\odb\steps\pcb\layers\topsolder\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Outline\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Outputs\odb\matrix\matrix
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Outputs\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\topoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Outputs\odb\steps\pcb\profile
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Outputs\SealHATv1.0.6.REP
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\topsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Outputs\odb\steps\pcb\stephdr
+DocumentPath=Outputs\odb\steps\pcb\layers\3D Bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
+DocumentPath=Outputs\odb\steps\pcb\layers\3D Top\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Outputs\odb\steps\pcb\layers\Assembly Bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Outputs\odb\steps\pcb\layers\Assembly Text Bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Outputs\odb\steps\pcb\layers\Assembly Text Top\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Outputs\odb\steps\pcb\layers\Assembly Top\features
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Outputs\odb\steps\pcb\layers\bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Outputs\odb\steps\pcb\layers\bottomoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Outputs\odb\steps\pcb\layers\bottompaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Outputs\odb\steps\pcb\layers\bottomsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Outputs\odb\steps\pcb\layers\Courtyard Bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Outputs\odb\steps\pcb\layers\Courtyard Top\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Outputs\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Outputs\odb\steps\pcb\layers\keepout\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Outputs\odb\steps\pcb\layers\mechanical27\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Outputs\odb\steps\pcb\layers\mid1\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Outputs\odb\steps\pcb\layers\mid2\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Outputs\odb\steps\pcb\layers\Outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Outputs\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Outputs\odb\steps\pcb\layers\topoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Outputs\odb\steps\pcb\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Outputs\odb\steps\pcb\layers\topsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Default Configuration\Outputs\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Outputs\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Outputs\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Outputs\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Default Configuration\Outputs\ERC\SealHAT.html
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHAT.v1.0.3.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHAT.v1.0.3.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.G1
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.G2
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHAT.v1.0.3.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Default Configuration\Outputs\ODB\SealHAT.v1.0.3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Default Configuration\Outputs\ExportSTEP\SealHAT.v1.0.3.step
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHAT.v1.0.3.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Default Configuration\Outputs\Board Stack Report\SealHAT.v1.0.3.xls
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Default Configuration\Outputs\DRC\SealHATv1.0.6.html
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Outputs\SealHATv1.0.6.REP
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Outputs\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument89]
 DocumentPath=Outputs\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -1208,7 +1415,7 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=SealHAT.OutJob
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Outputs
 
 [OutputGroup1]
 Name=Netlist Outputs
