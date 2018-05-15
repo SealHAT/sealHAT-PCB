@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=
+OutputPath=Outputs
 LogFolderPath=
 ManagedProjectGUID=6B442C26-7CE2-469C-8DFD-F2B8C9C98BB2
 LinkedManagedProjectGUID=
@@ -394,7 +394,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BJJQWEKQ
 
 [Document22]
 DocumentPath=libs\Lite-On.PcbLib
@@ -1167,14 +1167,98 @@ DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Default Configuration\Outputs\ERC\SealHAT.html
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\stephdr
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument34]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.G1
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.G2
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.REP
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Default Configuration\Outputs\ODB\SealHATv1.0.6.REP
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Default Configuration\Outputs\ExportSTEP\SealHATv1.0.6.step
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Default Configuration\Outputs\Board Stack Report\SealHATv1.0.6.xls
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=SparkFun-Hardware.LOG
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -1195,7 +1279,7 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=SealHAT.OutJob
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Outputs
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1207,22 +1291,12 @@ OutputName1=EDIF for PCB
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=XSpiceNetlist
-OutputName2=XSpice Netlist
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Canon MF8500C UFRII LT XPS
+TargetPrinter=Ricoh_Secure_Printing on CPPHAROSPRINT.AD.UCSC.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1311,7 +1385,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Canon MF8500C UFRII LT XPS
+TargetPrinter=Ricoh_Secure_Printing on CPPHAROSPRINT.AD.UCSC.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Pick Place
 OutputName1=Generates pick and place files
@@ -1392,7 +1466,7 @@ Configuration2_Item31=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Ful
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Canon MF8500C UFRII LT XPS
+TargetPrinter=Ricoh_Secure_Printing on CPPHAROSPRINT.AD.UCSC.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -2370,7 +2444,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Canon MF8500C UFRII LT XPS
+TargetPrinter=Ricoh_Secure_Printing on CPPHAROSPRINT.AD.UCSC.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Electrical Rules Check
 OutputName1=Electrical Rules Check

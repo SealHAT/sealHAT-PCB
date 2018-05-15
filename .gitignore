@@ -3,6 +3,12 @@
 *.LOG
 *.WAS
 *.zip
+*.Dat
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+*~$*
 /Logs
 /Outputs
 /__Previews
