@@ -21,11 +21,11 @@ TargetOutputMedium=Print Job
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=Default Configuration
-TargetPrinter=Ricoh_Secure_Printing on CPPHAROSPRINT.AD.UCSC.EDU
+TargetPrinter=Canon MF8500C UFRII LT XPS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
-OutputMedium1_Printer=Ricoh_Secure_Printing on CPPHAROSPRINT.AD.UCSC.EDU
+OutputMedium1_Printer=Canon MF8500C UFRII LT XPS
 OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputMedium2=PDF
 OutputMedium2_Type=Publish
@@ -50,17 +50,17 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=Filter
 Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=True|AddToProject=False|ForceFit=True|NotFitted=False|Database=False|IncludePCBData=True|ShowExportOptions=True|TemplateFilename=BOM Default Template.XLT|BatchMode=0|FormWidth=1827|FormHeight=824|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Item3=OpenExported=True|AddToProject=False|ForceFit=True|NotFitted=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=BOM Default Template.XLT|BatchMode=0|FormWidth=1827|FormHeight=791|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration1_Name4=GroupOrder
-Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Item4=Quantity=True|Case/Package=True|Comment=True
 Configuration1_Name5=OutputConfigurationParameter1
 Configuration1_Item5=?????????????
 Configuration1_Name6=PCBDocument
-Configuration1_Item6=FileName=SealHAT.v1.0.3.CMPcbDoc
+Configuration1_Item6=
 Configuration1_Name7=SortOrder
 Configuration1_Item7=Designator=Down
 Configuration1_Name8=VisibleOrder
-Configuration1_Item8=Quantity=72|Designator=236|Manufacturer Part Number=170|Comment=204|Case/Package=99|Description=569
+Configuration1_Item8=Quantity=72|Designator=236|Comment=204|Case/Package=99|Description=569
 OutputType2=Schematic Print
 OutputName2=Schematic Print
 OutputCategory2=Documentation
