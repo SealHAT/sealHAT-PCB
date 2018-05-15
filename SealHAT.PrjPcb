@@ -1055,207 +1055,339 @@ DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_top\c
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\eda\data
+DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\3D Bottom\features
+DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\3D Top\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Assembly Bottom\features
+DocumentPath=Outputs\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Assembly Text Bottom\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\3D Bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Assembly Text Top\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\3D Top\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Assembly Top\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Assembly Bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottom\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Assembly Text Bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottomoverlay\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Assembly Text Top\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottompaste\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Assembly Top\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottomsolder\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottomoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Courtyard Bottom\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Courtyard Top\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\keepout\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Courtyard Bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mechanical27\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Courtyard Top\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mid1\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mid2\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\keepout\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Outline\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mechanical27\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\top\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\topoverlay\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\mid2\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\toppaste\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\Outline\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\topsolder\features
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Default Configuration\Outputs\ODB\odb\matrix\matrix
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\topoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\profile
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\topsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.DRL
+DocumentPath=Outputs\odb\steps\pcb\layers\3D Bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.DRR
+DocumentPath=Outputs\odb\steps\pcb\layers\3D Top\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.EXTREP
+DocumentPath=Outputs\odb\steps\pcb\layers\Assembly Bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.G1
+DocumentPath=Outputs\odb\steps\pcb\layers\Assembly Text Bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.G2
+DocumentPath=Outputs\odb\steps\pcb\layers\Assembly Text Top\features
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBL
+DocumentPath=Outputs\odb\steps\pcb\layers\Assembly Top\features
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBO
+DocumentPath=Outputs\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBP
+DocumentPath=Outputs\odb\steps\pcb\layers\bottomoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBS
+DocumentPath=Outputs\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GKO
+DocumentPath=Outputs\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTL
+DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTO
+DocumentPath=Outputs\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTP
+DocumentPath=Outputs\odb\steps\pcb\layers\Courtyard Bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTS
+DocumentPath=Outputs\odb\steps\pcb\layers\Courtyard Top\features
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.LDP
+DocumentPath=Outputs\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.REP
+DocumentPath=Outputs\odb\steps\pcb\layers\keepout\features
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Default Configuration\Outputs\ODB\SealHATv1.0.6.REP
+DocumentPath=Outputs\odb\steps\pcb\layers\mechanical27\features
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.RUL
+DocumentPath=Outputs\odb\steps\pcb\layers\mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Default Configuration\Outputs\ExportSTEP\SealHATv1.0.6.step
+DocumentPath=Outputs\odb\steps\pcb\layers\mid2\features
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.TXT
+DocumentPath=Outputs\odb\steps\pcb\layers\Outline\features
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Default Configuration\Outputs\Board Stack Report\SealHATv1.0.6.xls
+DocumentPath=Outputs\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\stephdr
+DocumentPath=Outputs\odb\steps\pcb\layers\topoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument54]
+DocumentPath=Outputs\odb\steps\pcb\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Outputs\odb\steps\pcb\layers\topsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Default Configuration\Outputs\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Outputs\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Outputs\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Outputs\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.G1
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.G2
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.REP
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Default Configuration\Outputs\ODB\SealHATv1.0.6.REP
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Outputs\SealHATv1.0.6.REP
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Default Configuration\Outputs\ExportSTEP\SealHATv1.0.6.step
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Default Configuration\Outputs\Board Stack Report\SealHATv1.0.6.xls
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Outputs\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument86]
 DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Outputs\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [SearchPath1]
