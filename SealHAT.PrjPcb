@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=
+OutputPath=Outputs
 LogFolderPath=
 ManagedProjectGUID=6B442C26-7CE2-469C-8DFD-F2B8C9C98BB2
 LinkedManagedProjectGUID=
@@ -1287,106 +1287,190 @@ DocumentPath=Outputs\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.DRL
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHAT.v1.0.3.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.DRR
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHAT.v1.0.3.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.EXTREP
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.G1
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.G1
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.G2
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.G2
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBL
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBO
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBP
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBS
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GKO
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTL
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTO
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTP
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTS
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.LDP
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHAT.v1.0.3.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.REP
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.REP
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Default Configuration\Outputs\ODB\SealHATv1.0.6.REP
+DocumentPath=Default Configuration\Outputs\ODB\SealHAT.v1.0.3.REP
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Outputs\SealHATv1.0.6.REP
+DocumentPath=Default Configuration\Outputs\Gerber\SealHAT.v1.0.3.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.RUL
+DocumentPath=Default Configuration\Outputs\ExportSTEP\SealHAT.v1.0.3.step
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Default Configuration\Outputs\ExportSTEP\SealHATv1.0.6.step
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHAT.v1.0.3.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.TXT
+DocumentPath=Default Configuration\Outputs\Board Stack Report\SealHAT.v1.0.3.xls
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Default Configuration\Outputs\Board Stack Report\SealHATv1.0.6.xls
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\stephdr
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Outputs\odb\steps\pcb\stephdr
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\tools
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.G1
 DItemRevisionGUID=
 
 [GeneratedDocument87]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.G2
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.REP
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Default Configuration\Outputs\ODB\SealHATv1.0.6.REP
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Outputs\SealHATv1.0.6.REP
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Default Configuration\Outputs\Gerber\SealHATv1.0.6.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Default Configuration\Outputs\ExportSTEP\SealHATv1.0.6.step
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Default Configuration\Outputs\NC Drill\SealHATv1.0.6.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Default Configuration\Outputs\Board Stack Report\SealHATv1.0.6.xls
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Outputs\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Default Configuration\Outputs\ODB\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument108]
 DocumentPath=Outputs\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -1407,7 +1491,7 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=SealHAT.OutJob
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Outputs
 
 [OutputGroup1]
 Name=Netlist Outputs
