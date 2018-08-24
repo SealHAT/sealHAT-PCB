@@ -9,8 +9,8 @@
 *.PcbDocPreview
 *.PrjPcbStructure
 *~$*
-/Logs
-/Outputs
-/__Previews
-/History
-/Default Configuration
+*/Logs
+*/Outputs
+*/__Previews
+*/History
+*/Default Configuration
